@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=simulacionMoneda
+comment1.params=
+comment1.target=simulacionMoneda()
+comment2.params=
+comment2.target=java.lang.String\ lanzar()
+comment3.params=numeroCaras
+comment3.target=java.lang.String\ calculoProbabilidad(int)
+numComments=4

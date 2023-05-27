@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Moneda
+comment1.params=
+comment1.target=Moneda()
+comment2.params=
+comment2.target=int\ lanzar()
+comment3.params=
+comment3.target=double\ probabilidad()
+numComments=4

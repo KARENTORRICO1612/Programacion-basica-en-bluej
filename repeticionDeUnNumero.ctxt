@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=repeticionDeUnNumero
+comment1.params=repeticion\ numero
+comment1.target=int\ repeticionNumero(int,\ int)
+numComments=2

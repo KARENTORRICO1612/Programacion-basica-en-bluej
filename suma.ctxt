@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=suma
+comment0.text=\r\n\ Esta\ es\ mi\ primer\ clase\ en\ Java\r\n\ SUMA\r\n
+comment1.params=
+comment1.target=void\ sumaProc()
+comment2.params=
+comment2.target=int\ sumaProc2()
+comment3.params=a\ b
+comment3.target=int\ suma3(int,\ int)
+comment4.params=a\ b
+comment4.target=java.lang.String\ suma4(int,\ int)
+comment5.params=a\ b
+comment5.target=int\ resta(int,\ int)
+numComments=6

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Promedio
+comment1.params=nota1\ nota2\ nota3\ nota4
+comment1.target=void\ promedio(int,\ int,\ int,\ int)
+numComments=2

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=dobleNumero
+comment1.params=num
+comment1.target=java.lang.String\ doble(int)
+numComments=2
