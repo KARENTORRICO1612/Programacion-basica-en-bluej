@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=potenciaRecursiva
+comment1.params=base\ exp
+comment1.target=int\ potencia(int,\ int)
+numComments=2
